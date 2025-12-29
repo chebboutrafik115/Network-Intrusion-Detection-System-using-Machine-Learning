@@ -6,17 +6,6 @@
 
 A Machine Learning-based Network Intrusion Detection System (NIDS) engineered to detect and classify malicious network activities using advanced ensemble methods like Random Forest and XGBoost.
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Technologies](#technologies)
-- [Authors](#authors)
-- [License](#license)
-
 ---
 
 ## 🎯 Overview
