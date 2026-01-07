@@ -1,4 +1,4 @@
-# 🛡️ Network Intrusion Detection System with Machine Learning
+#  Network Intrusion Detection System with Machine Learning
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -8,7 +8,7 @@ A Machine Learning-based Network Intrusion Detection System (NIDS) engineered to
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 This project implements an intelligent **Network Intrusion Detection System (NIDS)**. By analyzing traffic patterns from the **NSL-KDD** dataset, the system distinguishes between normal connections and various types of network attacks (DoS, Probe, R2L, U2R).
 
@@ -19,7 +19,7 @@ This project implements an intelligent **Network Intrusion Detection System (NID
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Binary Classification:** Effective distinction between Normal traffic and Attacks.
 - **Advanced Preprocessing:**
@@ -34,7 +34,7 @@ This project implements an intelligent **Network Intrusion Detection System (NID
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **NSL-KDD Dataset**
 Refined version of the classic KDD Cup 99 dataset, solving inherent redundancy issues.
@@ -49,7 +49,7 @@ Refined version of the classic KDD Cup 99 dataset, solving inherent redundancy i
 - **U2R** (Unauthorized access to local superuser privileges)
 
 
-## 📈 Results
+##  Results
 
 The model performance was evaluated using accuracy, precision, recall, and F1-score. **XGBoost** outperformed Random Forest, making it the selected model for this system.
 
@@ -65,7 +65,7 @@ The model performance was evaluated using accuracy, precision, recall, and F1-sc
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Language:** Python 3.8+
 - **Data Manipulation:** Pandas, NumPy
@@ -76,6 +76,6 @@ The model performance was evaluated using accuracy, precision, recall, and F1-sc
 
 ---
 
-## 📝 License
+##  License
 
 This project is intended for educational purposes as part of the **Master's Degree** curriculum.
