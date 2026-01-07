@@ -66,16 +66,12 @@ The model performance was evaluated using accuracy, precision, recall, and F1-sc
 ---
 
 ##  Technologies Used
-
-- **Language:** Python 3.8+
-- **Data Manipulation:** Pandas, NumPy
-- **Machine Learning:** - Scikit-learn (Random Forest, Preprocessing)
-  - XGBoost (Gradient Boosting)
-- **Visualization:** Matplotlib, Seaborn
-- **Environment:** Google Colab / Jupyter Notebook
-
+- **Python 3.8**
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
+- **Environment:** Google Colab.
 ---
+##  Authors
+- **CHEBBOUT Rafik**
 
-##  License
-
-This project is intended for educational purposes as part of the **Master's Degree** curriculum.
+**Supervisor:** Mlle Y. YOUNSIOUI
+**University:** Université Abderrahmane Mira de Béjaia (2025 - 2026)
